@@ -1,0 +1,15 @@
+{
+    "clang.cxxflags": ["c++"],
+    "clang.executable": "clang",
+   "clang.completion.enable": true,
+    "clang.completion.maxBuffer": 8388608,
+    "clang.completion.triggerChars": [
+        ".",
+        ":",
+        ">"
+    ],
+    "clang.diagnostic.enable": true,
+    "clang.diagnostic.maxBuffer": 262144,
+    "clang.diagnostic.delay": 500,
+    
+}
